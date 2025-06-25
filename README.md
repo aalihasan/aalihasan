@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/zH5QD6PB/image.png" alt="banner" />
+  <img src="https://i.ibb.co/j95msWxz/image.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD. Hasan Ali</h1>
