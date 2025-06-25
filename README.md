@@ -2,26 +2,26 @@
   <img src="https://i.ibb.co/j95msWxz/image.png" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm MD. Hasan Ali</h1>
+<h1 align="center">Hi , I'm MD. Hasan Ali</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me:
 
 Hello! I’m a passionate full-stack developer from Bangladesh, dedicated to crafting modern and responsive web applications. I enjoy turning complex problems into intuitive user experiences and always learning the latest technologies.
 
 ---
 
-## 🚀 What I’m Doing
+##  What I’m Doing
 
-- 🌱 I’m currently exploring **Next.js** and building responsive MERN-based apps.
-- 🔭 I’m working on an **E-commerce shopping site**.
-- 📝 I write code that’s clean, scalable, and enjoyable to maintain.
+-  I’m currently exploring **Next.js** and building responsive MERN-based apps.
+-  I’m working on an **E-commerce shopping site**.
+-  I write code that’s clean, scalable, and enjoyable to maintain.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,tailwind,js,react,nodejs,express,mongodb,firebase" />
@@ -29,7 +29,7 @@ Hello! I’m a passionate full-stack developer from Bangladesh, dedicated to cra
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:alihasan.cse6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -39,7 +39,7 @@ Hello! I’m a passionate full-stack developer from Bangladesh, dedicated to cra
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aalihasan&show_icons=true&theme=radical" />
