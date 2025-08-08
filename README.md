@@ -55,3 +55,53 @@ Hello! I’m a passionate full-stack developer from Bangladesh, dedicated to cra
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalihasan&layout=compact&theme=radical" />
 </p>
+
+#  Skills :
+
+## 🛠 Core Technologies
+- **HTML5** – Semantic markup, accessibility, ARIA roles
+- **CSS3** – Flexbox, Grid, Responsive Design, Animations
+- **JavaScript (ES6+)** – DOM manipulation, Async/Await, Modules
+
+## 🎨 Styling & Design Tools
+- **Tailwind CSS**, Bootstrap, Material UI
+- **SASS/SCSS** – CSS preprocessing
+- Responsive Design (Mobile-first approach)
+- Cross-browser compatibility
+
+## ⚛ JavaScript Frameworks & Libraries
+- **React.js**
+- State Management – Redux, Context API, Zustand
+- Routing – React Router, Next.js
+
+## 🔧 Tools & Build Systems
+- Git, GitHub
+- npm, yarn
+- Vite, Webpack
+- Babel, ESLint, Prettier
+
+## 🔌 API & Data Handling
+- REST API integration (Fetch, Axios)
+- JSON data manipulation
+- JWT authentication
+
+## 🚀 Deployment & Hosting
+- Netlify, Vercel, GitHub Pages
+- CI/CD basics
+
+## 📈 Performance & Accessibility
+- Lighthouse Audits
+- WCAG Accessibility
+- SEO basics for SPAs
+
+## 🎯 Extra Skills
+- **Next.js** – SSR & SSG
+- **TypeScript** – Static typing for large projects
+- Testing – Jest, React Testing Library
+
+
+
+
+
+
+
