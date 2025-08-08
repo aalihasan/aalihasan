@@ -91,6 +91,10 @@ Hello! I’m a passionate full-stack developer from Bangladesh, dedicated to cra
 ## 🎯 Extra Skills
 - **Next.js** – SSR & SSG
 
+# language:
+Bangla
+English
+
 
 
 
