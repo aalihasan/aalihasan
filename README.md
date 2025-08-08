@@ -64,21 +64,19 @@ Hello! I’m a passionate full-stack developer from Bangladesh, dedicated to cra
 - **JavaScript (ES6+)** – DOM manipulation, Async/Await, Modules
 
 ## 🎨 Styling & Design Tools
-- **Tailwind CSS**, Bootstrap, Material UI
-- **SASS/SCSS** – CSS preprocessing
+- **Tailwind CSS**, Material UI
 - Responsive Design (Mobile-first approach)
 - Cross-browser compatibility
 
 ## ⚛ JavaScript Frameworks & Libraries
 - **React.js**
-- State Management – Redux, Context API, Zustand
+- State Management –  Context API
 - Routing – React Router, Next.js
 
 ## 🔧 Tools & Build Systems
 - Git, GitHub
-- npm, yarn
-- Vite, Webpack
-- Babel, ESLint, Prettier
+- npm, 
+- Vite
 
 ## 🔌 API & Data Handling
 - REST API integration (Fetch, Axios)
@@ -87,17 +85,12 @@ Hello! I’m a passionate full-stack developer from Bangladesh, dedicated to cra
 
 ## 🚀 Deployment & Hosting
 - Netlify, Vercel, GitHub Pages
-- CI/CD basics
 
-## 📈 Performance & Accessibility
-- Lighthouse Audits
-- WCAG Accessibility
-- SEO basics for SPAs
+
 
 ## 🎯 Extra Skills
 - **Next.js** – SSR & SSG
-- **TypeScript** – Static typing for large projects
-- Testing – Jest, React Testing Library
+
 
 
 
