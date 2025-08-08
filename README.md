@@ -35,8 +35,13 @@ Hello! I’m a passionate full-stack developer from Bangladesh, dedicated to cra
   <a href="mailto:alihasan.cse6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/md-hasan-ali-535954251/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/aalihasan"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
-  <span>Mobile: 01763838761</span>
+
 </p>
+<div>
+  <p>Location: Dhaka, Bangladesh</p>
+    <p>Email: alihasan.cse6@gmail.com</p>
+    <p>Phone: +8801763838761</p>
+</div>
 
 
 ---
